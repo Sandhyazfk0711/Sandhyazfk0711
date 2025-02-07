@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I am a **Microsoft Certified  BI Developer** with extensive experience in **data warehousing, data analysis, visualization, and business intelligence**. 
-I specialize in turning complex data into actionable insights using tools like **Power BI, SQL, Python, Azure Cloud, Tableau, and Snowflake**.  
+I specialize in turning complex data into actionable insights using tools like **Power BI, Tableau, SQL, Python, Azure Cloud, and Snowflake**.  
 With a strong background in **Insurance, Banking and Ecommerce analytics**, I am passionate about leveraging data-driven solutions to drive business impact.  
 
 ---
