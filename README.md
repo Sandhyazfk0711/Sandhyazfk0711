@@ -32,8 +32,4 @@ A fraud detection system using **Power BI & SQL** to analyze claims and detect f
 ## 🤝 Let's Collaborate  
 I am always open to collaborating on **business intelligence projects, data analytics solutions, and automation in data workflows**.  
 
----
-
-⭐ **If you find my work useful, consider giving it a star!**  
-
 📊 _Transforming data into powerful insights!_ 🚀  
