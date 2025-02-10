@@ -28,6 +28,8 @@ I specialize in transforming complex datasets into actionable insights using Pow
 🔹 **[Insurance Fraud Detection](https://github.com/Sandhyazfk0711/Project_Insurance)**  
 A fraud detection system using **Power BI & SQL** to analyze claims and detect fraudulent activities.  
 
+🔹 **[Advanced Ecommerce Dashboard](https://github.com/Sandhyazfk0711/EcommerceDashboard)**  
+Advanced Ecommerce Sales Dashboard I designed an Ecommerce Sales Dashboard leveraging field parameters, buttons, bookmarks, line charts, bar charts, clustered column charts, and stacked column charts to enhance interactivity and data-driven decision-making
 
 ## 🤝 Let's Collaborate  
 I am always open to collaborating on **business intelligence projects, data analytics solutions, and automation in data workflows**.  
