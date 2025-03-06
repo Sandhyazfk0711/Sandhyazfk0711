@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sandhya Eega!  
 
 ## 🚀 About Me  
-I am a **Microsoft Certified BI Developer** and Snowflake SnowPro Core Certified professional with extensive expertise in **data engineering, data warehousing, analytics, and business intelligence**. Additionally, I hold the **Microsoft DP-203 (Data Engineering on Microsoft Azure) Certification**, demonstrating my proficiency in designing and implementing cloud-based data solutions.
+I am a **Microsoft Certified BI Developer** and **Snowflake SnowPro Core Certified professional** with extensive expertise in **data engineering, data warehousing, analytics, and business intelligence**. Additionally, I hold the **Microsoft DP-203 (Data Engineering on Microsoft Azure) Certification**, demonstrating my proficiency in designing and implementing cloud-based data solutions.
 
 I specialize in transforming complex datasets into actionable insights using Power BI, Tableau, SQL, Python, Azure Data Factory (ADF), and Snowflake. With a strong background in **insurance, banking, and e-commerce analytics**, I am passionate about leveraging data-driven strategies, real-time analytics, and cloud technologies to optimize business performance and decision-making.
 
