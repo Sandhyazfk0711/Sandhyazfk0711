@@ -1,17 +1,23 @@
-# 👋 Hi, I'm Sandhya Eega!  
+# 👋 Hi, I'm Sandhya!  
 
 ## 🚀 About Me  
-I am a **Microsoft Certified BI Developer** and **Snowflake SnowPro Core Certified professional** with extensive expertise in **data engineering, data warehousing, analytics, and business intelligence**. Additionally, I hold the **Microsoft DP-203 (Data Engineering on Microsoft Azure) Certification**, demonstrating my proficiency in designing and implementing cloud-based data solutions.
+I am a **Microsoft Certified BI Developer**, **Snowflake SnowPro Core Certified professional**, and EDI Analyst with extensive expertise in data engineering, data warehousing, analytics, and business intelligence. Additionally, I hold the **Microsoft DP-203 (Data Engineering on Microsoft Azure) Certification**, demonstrating my proficiency in designing and implementing cloud-based data solutions.
 
-I specialize in transforming complex datasets into actionable insights using Power BI, Tableau, SQL, Python, Azure Data Factory (ADF), and Snowflake. With a strong background in **insurance, banking, and e-commerce analytics**, I am passionate about leveraging data-driven strategies, real-time analytics, and cloud technologies to optimize business performance and decision-making.
+I specialize in transforming complex datasets into actionable insights using Power BI, Tableau, SQL, Python, Azure Data Factory (ADF), and Snowflake, alongside my expertise in Electronic Data Interchange (EDI) processes, ensuring seamless data transmission across healthcare, insurance, and e-commerce industries. With a strong background in insurance, banking, healthcare claims processing, and e-commerce analytics, I am passionate about leveraging data-driven strategies, real-time analytics, and cloud technologies to optimize business performance and decision-making.
+
 
 ---
 
 ## 💡 What I Do  
 
 🔹 **Data Engineering & ETL**  
-- Working with **SQL, MySQL, and Snowflake** to extract and transform data  
-- Integrating and managing data pipelines with **AWS S3, SNOWPIPE, Azure Data Factory**  
+- Working with **SQL, MySQL,Azure Sql, and Snowflake** to extract and transform data  
+- Integrating and managing data pipelines with **AWS S3, SNOWPIPE, Azure Data Factory**
+  
+🔹 **EDI Analytics & Claims Data Processing**
+Processing and analyzing EDI 837, 835, and 270/271 transactions
+Monitoring claims data pipelines, ensuring accuracy and compliance with industry standards
+Building Power BI dashboards to track EDI transaction status, claims lifecycle, and provider/member data trends
 
 🔹 **Data Visualization & BI Development**  
 - Building insightful visualizations for business users using **Power BI**  
